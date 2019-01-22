@@ -1,4 +1,4 @@
-package com.bookstore.ServiceBroker.SBProject.Web;
+package com.bookstore.ServiceBroker.SBProject.Web.Model;
 
 public class ApplicationInformation {
 

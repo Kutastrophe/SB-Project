@@ -1,7 +1,7 @@
 package com.bookstore.ServiceBroker.SBProject.Config;
 
 
-import com.bookstore.ServiceBroker.SBProject.Web.ApplicationInformation;
+import com.bookstore.ServiceBroker.SBProject.Web.Model.ApplicationInformation;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.env.Environment;
 @Configuration
